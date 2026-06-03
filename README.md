@@ -1,4 +1,4 @@
-# DesarrolloWeb_Grupo_2
+# DesarrolloWeb_Grupo_2_INTEGRNTES
 
 10 Grupo 2 Charali Lopez Eyverth Danthe 
 11 Grupo 2 Diaz Condori Kevin Ayrton 
